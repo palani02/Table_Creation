@@ -1,0 +1,24 @@
+.container{
+    text-align: center;
+}
+
+table
+{
+    border-collapse: collapse;
+    font-size: 30px;
+}
+td,th{
+    border: 3px solid black
+}
+.p1{
+    background-color: red;
+}
+.p2{
+    background-color: green;
+}
+.p3{
+    background-color: aliceblue;
+}
+.p4{
+    background-color: yellow;
+}
